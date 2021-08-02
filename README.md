@@ -78,7 +78,7 @@
 
 <a href="https://www.twitter.com/osarodev"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-i__disbalance-black?style=flat-square&logo=twitter"></a>
 
-<a href="mailto:osaronaiwu@yahoo.com"><img alt="Email" src="https://img.shields.io/badge/Email-osaronaiwu@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:osaronaiwu@yahoo.com"><img alt="Email" src="https://img.shields.io/badge/Email-osaronaiwu@yahoo.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>
 
