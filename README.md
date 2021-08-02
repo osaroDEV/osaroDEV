@@ -76,7 +76,7 @@
 
 <a href="https://www.linkedin.com/in/osaroonaiwu/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Osaro%20Onaiwu-blue?style=flat-square&logo=linkedin"></a>
 
-<a href="https://www.twitter.com/osarodev"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-i__disbalance-black?style=flat-square&logo=twitter"></a>
+<a href="https://www.twitter.com/osarodev"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-osarodev-black?style=flat-square&logo=twitter"></a>
 
 <a href="mailto:osaronaiwu@yahoo.com"><img alt="Email" src="https://img.shields.io/badge/Email-osaronaiwu@yahoo.com-blue?style=flat-square&logo=gmail"></a>
 
