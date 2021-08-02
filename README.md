@@ -1,4 +1,4 @@
-### Hi there 👋<h2> I'm Osaro aka osaroDEV</h2>
+### Hi there 👋<h2> I'm Osaro Onaiwu aka osaroDEV</h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
@@ -38,7 +38,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; node | express| Firebase 
+- 🔧 &nbsp; node | express | Firebase 
 
 <hr>
 
