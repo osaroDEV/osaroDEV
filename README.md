@@ -72,7 +72,7 @@
 
 <p align="center">
 
-<a href="https://osarodev.com/"><img alt="Website" src="https://img.shields.io/badge/osarodev.netlify.app-black?style=flat-square&logo=google-chrome"></a>
+<a href="https://osarodev.com/"><img alt="Website" src="https://img.shields.io/badge/osarodev.com-black?style=flat-square&logo=google-chrome"></a>
 
 <a href="https://www.linkedin.com/in/osaroonaiwu/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Osaro%20Onaiwu-blue?style=flat-square&logo=linkedin"></a>
 
