@@ -6,11 +6,11 @@
 
 
 
-- 🤔 &nbsp; Learning majorly frontend technologies and developing software solutions.
+- 🤔 &nbsp; Currently teaching web technologies. Ex-Microsoft Azure Technical Support Engineer. 
 
 - 🎓 &nbsp; Studying German at TUB, Braunschweig and coding stuffs.
 
-- 🌱 &nbsp; Learning about React & Javascript.
+- 🌱 &nbsp; Still upskilling my frontend tech stack (Javascript) and building web projects basically with NextJS.
 
 - ✍️ &nbsp; Pursuing Web Development as hobbies/work.
 
@@ -20,7 +20,7 @@
 
 
 
-- 💻 &nbsp; NextJS | React | Javascript | CSS | HTML | jQuery
+- 💻 &nbsp; NextJS | React | Javascript | CSS | HTML 
 
 - 🌐 &nbsp; Styled-Components | Custom CSS | SCSS | Tailwind
 
