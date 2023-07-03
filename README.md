@@ -20,15 +20,15 @@
 
 
 
-- 💻 &nbsp; React | Javascript | CSS | HTML | jQuery
+- 💻 &nbsp; NextJS | React | Javascript | CSS | HTML | jQuery
 
-- 🌐 &nbsp; Styled-Components | Custom CSS | SCSS 
+- 🌐 &nbsp; Styled-Components | Custom CSS | SCSS | Tailwind
 
 <!--
 
 - 🛢 &nbsp; Framer-Motion | React-Icons | React-Router 
 
-- 🔧 &nbsp; Git | Markdown | vercel | netlify | firebase 
+- 🔧 &nbsp; Git | Markdown | Netlify | Firebase | Vercel
 
 - 🖥 &nbsp; Figma 
 
