@@ -6,7 +6,7 @@
 
 
 
-- 🤔 &nbsp; Currently teaching web technologies. Ex-Microsoft Azure Technical Support Engineer. 
+- 🤔 &nbsp; Lead Frontend Engineer.
 
 - 🎓 &nbsp; Studying German at TUB, Braunschweig and coding stuffs.
 
